@@ -31,7 +31,7 @@ Meeting Agenda templates (located in the `/docs` directory in this repo):
 
 | Name | Role | GitHub | LinkedIn |
 | ----------- | ----------- | ----------- |----------- |
-Adrienne Burney  UX/UI Designer
+| Adrienne | UX/UI Designer | [Alvarado08](https://github.com/Alvarado08) | [in/adrienne-b](https://www.linkedin.com/in/adrienne-burney-ux-ui-designer/)) |
 | Jorge Alvarado | Developer | [Alvarado08](https://github.com/Alvarado08) | [in/jorgep-alvarado](https://www.linkedin.com/in/jorgep-alvarado) |
 | Olga Yudkin | Developer | [cvtqx](https://github.com/cvtqx) | [in/olga-yudkin](https://www.linkedin.com/in/olga-yudkin/) |
 | Andrew Arias | Developer | [andresmao85](https://github.com/andresmao85) | [in/andres-ao](https://www.linkedin.com/in/andres-ao/) |
